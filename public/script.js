@@ -186,7 +186,7 @@ peer.on("call", function (call) {
 leaveButton.addEventListener("click", (e) => {
   
   alert("Thank you for join")
-  window.location = "http://localhost:3000/";
+  window.location = "https://weecall.herokuapp.com";
 
 })
 
